@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="282057cafbd04c219be1a3f266ae1e44" Name="Diagram1">
+        <EntityTypeShape EntityType="PharmacyAppModel.Admin" Width="1.5" PointX="5.75" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyAppModel.Firms" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyAppModel.Medicines" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyAppModel.MedicineToFirm" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyAppModel.MedicineToTag" Width="1.5" PointX="3" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyAppModel.Orders" Width="1.5" PointX="3" PointY="7.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyAppModel.Settings" Width="1.5" PointX="5.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyAppModel.Tags" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="PharmacyAppModel.Workers" Width="1.5" PointX="0.75" PointY="11.5" IsExpanded="true" />
+        <AssociationConnector Association="PharmacyAppModel.FK_MedicineToFirm_Firms" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmacyAppModel.FK_MedicineToFirm_Medicines" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmacyAppModel.FK_MedicineToTag_Medicines" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmacyAppModel.FK_Orders_Medicines" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmacyAppModel.FK_MedicineToTag_Tags" ManuallyRouted="false" />
+        <AssociationConnector Association="PharmacyAppModel.FK_Orders_Workers" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

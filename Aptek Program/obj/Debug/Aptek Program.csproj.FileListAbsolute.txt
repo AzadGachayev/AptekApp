@@ -1,0 +1,17 @@
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\bin\Debug\Aptek Program.exe.config
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\bin\Debug\Aptek Program.exe
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\bin\Debug\Aptek Program.pdb
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek Program.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek_Program.SAF.resources
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek_Program.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek Program.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek Program.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek Program.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek Program.exe
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek Program.pdb
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek_Program.AdminDashboard.resources
+C:\Users\Lenovo\source\repos\Aptek Program\Aptek Program\obj\Debug\Aptek_Program.WorkersDashboard.resources
